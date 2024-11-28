@@ -1,5 +1,5 @@
 # continuous_time_mcs.notebooks
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/QuantEcon/continuous_time_mcs.notebooks/HEAD)
+Notebooks for https://quantecon.github.io/continuous_time_mcs/intro.html
 
-Notebook Repository for Continuous Time Markov Chain Lecture Series
+**Note:** This README should be edited [here](https://github.com/quantecon/continuous_time_mcs/_notebook_repo)
